@@ -1,0 +1,18 @@
+.descricao {
+    transition: 1s;
+}
+.image {
+    transition: 1s;
+}
+.image:hover {
+    transform: scale(1.05);
+    transition: 1s;
+}
+
+.loguinho:hover {
+    transform: scale(1.5);
+    transition: 1s;
+}
+.loguinho {
+    transition: 1s;
+}
